@@ -37,6 +37,8 @@ to
 ```
 and run `python lowest_corner.py test3`
 
+if you have any questions about this, feel free to email me at `dumbderivatives@gmail.com`
+
 # process of creation
 
 This idea was started when my friend made me a Calibron 12 puzzle for my birthday. I've seen it before, but I have never been able to solve it. Thus, I wanted to write a program to solve it for me. 
@@ -44,7 +46,7 @@ This idea was started when my friend made me a Calibron 12 puzzle for my birthda
 I started by doing some research.
 * <http://www.or.uni-bonn.de/~hougardy/paper/PerfectPacking.pdf>
 * <https://www.csc.liv.ac.uk/~epa/surveyhtml.html#top>
-* <https://www.codeproject.com/Articles/210979/Fast-optimizing-rectangle-packing-algorithm-for-bu?scrlybrkr=7aea1319#basic>
+* <https://www.codeproject.com/Articles/210979/Fast-optimizing-rectangle-packing-algorithm-for-bu>
 * <https://www.codeproject.com/Articles/5373703/Rectangle-Packing>
 * <https://people.csail.mit.edu/rivest/pubs/pubs/BCR80.pdf>
 * <https://eniacization.github.io/2017/12/28/backtracking-puzzle.html>
